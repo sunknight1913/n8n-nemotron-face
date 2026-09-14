@@ -1,0 +1,17 @@
+{
+  "name": "NVIDIA Nemotron AI",
+  "short_name": "Nemotron AI",
+  "start_url": "/n8n-nemotron-face/",
+  "scope": "/n8n-nemotron-face/",
+  "display": "standalone",
+  "background_color": "#0d1117",
+  "theme_color": "#0d1117",
+  "icons": [
+    {
+      "src": "https://cdn.jsdelivr.net/npm/@n8n/chat/dist/favicon.ico",
+      "sizes": "512x512",
+      "type": "image/x-icon",
+      "purpose": "any maskable"
+    }
+  ]
+}
