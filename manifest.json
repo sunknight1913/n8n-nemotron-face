@@ -1,0 +1,13 @@
+{
+  "background_color": "#ffffff",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "chater-nemo",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "chamo",
+  "start_url": "/",
+  "theme_color": "#ffffff",
+  "description": "let me be your friend",
+  "id": "n8n-nemotron-face"
+}
